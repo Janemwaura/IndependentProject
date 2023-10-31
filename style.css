@@ -47,4 +47,20 @@ body{
 }
 .inputs input:first-child{
     margin-left: 0px;
+    margin-bottom: 10px;
+}
+.details p{
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+.content .reset-btn{
+    width: 100%;
+    cursor: pointer ;
+    border: none;
+    color: #F2D4D6 ;
+    font-size: 17px ;
+    padding: 15px 0;
+    background: #213F99;
+    border-radius: 5px;
 }
